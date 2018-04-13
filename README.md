@@ -1,0 +1,1 @@
+Squares given numbers.
